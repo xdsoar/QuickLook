@@ -1,6 +1,6 @@
 ---
-name: Bug report
-about: Create a report to help us improve
+name: Report a bug
+about: Please follow this template or your issue will be closed
 
 ---
 

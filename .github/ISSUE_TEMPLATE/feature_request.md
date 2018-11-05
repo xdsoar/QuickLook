@@ -1,6 +1,6 @@
 ---
-name: Feature request
-about: Suggest an idea for this project
+name: Suggest a new idea
+about: Please follow this template or your issue will be closed
 
 ---
 
